@@ -20,14 +20,10 @@ end
 
 desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
-  Dir.mktmpdir do |tmp|
-    system "cd _site"
-    system "git add . -A"
-    message = "Site updated at #{Time.now.utc}"
-    system "git commit -m #{message.inspect}"
-    system "git push origin gh-pages --force"
-
-    Dir.chdir pwd
-  end
+  system "cd _site"
+  system "git add . -A"
+  message = "Site updated at #{Time.now.utc}"
+  system "git commit -m #{message.inspect}"
+  system "git push origin gh-pages --force"
 end
 
