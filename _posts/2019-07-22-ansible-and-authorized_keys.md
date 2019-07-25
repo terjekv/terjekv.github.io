@@ -2,7 +2,7 @@
 title: Ansible for fun and fright
 layout: post
 categories:
-- computer science
+- technology
 ---
 Ansible has its advantages. For more ephemeral assets, I quite like its client-less design and the way it often works as a substitute for complex scripts. Ansible is also full of active development, with a rich and vibrant community that contributes code in a myriad of ways. This makes Ansible one of those tools it is so easy to reach for…
 
