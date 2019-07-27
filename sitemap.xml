@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://terje.kvernes.no/fiction/2019/07/10/lessons-in-writing-fiction.html</loc>
+<lastmod>2019-07-10T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://terje.kvernes.no/technology/2019/07/22/ansible-and-authorized_keys.html</loc>
+<lastmod>2019-07-22T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://terje.kvernes.no/hiking/2019/07/23/a-day-in-marka.html</loc>
+<lastmod>2019-07-23T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://terje.kvernes.no/about/</loc>
+</url>
+<url>
+<loc>http://terje.kvernes.no/</loc>
+</url>
+<url>
+<loc>http://terje.kvernes.no/posts/</loc>
+</url>
+<url>
+<loc>http://terje.kvernes.no/tag/lessons-in-writing/</loc>
+</url>
+<url>
+<loc>http://terje.kvernes.no/category/fiction/</loc>
+</url>
+<url>
+<loc>http://terje.kvernes.no/category/technology/</loc>
+</url>
+<url>
+<loc>http://terje.kvernes.no/category/hiking/</loc>
+</url>
+</urlset>
