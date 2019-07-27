@@ -46,7 +46,7 @@ images:
   src: IMG_0853.jpg
   text: >
     Looking back down it doesn't seem steep, and here it really isn't. In total, the difference in elevation
-    from Grønlia to here is around a hundred meters. Unforuately, I start another hundred plus below Grønlia...
+    from Grønlia to here is around a hundred meters. Unfortuately, my day starts another hundred plus below Grønlia...
 
 - title: The underbrush was still undisturbed 
   src: IMG_0854.jpg
