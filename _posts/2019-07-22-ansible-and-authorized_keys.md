@@ -1,6 +1,7 @@
 ---
 title: Ansible for fun and fright
 layout: post
+blurb: Have you ever used the Ansible authorized_key? Could you still log on to your machine? Lucky you!
 categories:
 - technology
 ---

@@ -70,4 +70,11 @@ images:
 
 ---
 
+I like my hiking time. It's a thing of solitude that allows my mind to wander.
+I either travel very light, where I carry nothing more than I wear, or I pack
+a bag. Today I was planning on going light, but the weather seemed decent and
+I decided to bring my bag. Six hours later, back home, I was very happy
+with my choice.
+
+
 {% include gallery.html %}
