@@ -15,13 +15,23 @@
 {% endif %}
 
 
-<p><strong>{{ image.title }}</strong> {{ imgtext }}</p>
-
 
 <a href="{{ site.url }}/assets/gallery/{{ page.gallery }}/{{ image.src }}"
  data-lightbox="{{ lbdata }}"
  data-title="{{ image.title }} {{ imgtext }}"><img
   src="{{ site.url }}/assets/gallery/{{ page.gallery }}/{{ image.src }}" alt="{{ image.title }}"/></a>
+
+<p><strong>#{{forloop.index}}:
+  {% if image.link %}
+   <a href="{{ image.link }}">{{ image.title }}</a>
+  {% else %}
+   {{ image.title }}
+  {% endif %}
+</strong> {{ imgtext }}</p>
+
+<hr>
+
+
 
 {% endfor %}
 {% endif %}
