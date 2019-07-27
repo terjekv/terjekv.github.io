@@ -18,8 +18,7 @@ images:
   title: The path to Grønlia cabin
   text: >
     This is a well-trodden path that for most of the way follows a creek.
-    It can get a bit wet following rains, and in winter you get ice.
-    Today though? It was lovely.
+    It can get a bit wet following rains, and in winter you get ice..
 
 - title: Grønlia cabin
   src: IMG_0842.jpg
@@ -40,7 +39,7 @@ images:
   src: IMG_0849.jpg
   text: >
     Østmarka is renowned for one thing above all else. Walking in the east-west direction is nothing
-    but hills. Here I am heading south, which means I will stay on this ridge pretty for another
+    but hills. Here I am heading south, which means I will stay on this ridge for another
     three or four kilometers - until Haukåsen.
 
 - title: Looking back after finally finishing the climb
