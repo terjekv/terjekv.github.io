@@ -1,0 +1,27 @@
+{% if page.gallery %}
+
+{% for image in page.images %}
+
+{% if image.data %}
+ {% assign lbdata = image.data %}
+{% else %}
+ {% assign lbdata = "group" %}
+{% endif %}
+
+{% if image.text %}
+ {% capture imgtext %} - {{ image.text }}{% endcapture %}
+{% else %}
+ {% assign imgtext = "" %}
+{% endif %}
+
+
+<p><strong>{{ image.title }}</strong> {{ imgtext }}</p>
+
+
+<a href="{{ site.url }}/assets/gallery/{{ page.gallery }}/{{ image.src }}"
+ data-lightbox="{{ lbdata }}"
+ data-title="{{ image.title }} {{ imgtext }}"><img
+  src="{{ site.url }}/assets/gallery/{{ page.gallery }}/{{ image.src }}" alt="{{ image.title }}"/></a>
+
+{% endfor %}
+{% endif %}
